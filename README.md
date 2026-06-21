@@ -59,7 +59,7 @@ Features:
 ```lua
 -- Execute Script
 
-loadstring(game:HttpGet("YOUR_SCRIPT_LINK"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nexacodeid/FishIt/refs/heads/main/luau.lua"))()
 ```
 
 ---
